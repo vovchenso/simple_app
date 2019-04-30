@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Test User",
+    "role": "Engineer",
+    "connected": "2019-04-29",
+    "status": "Screen"
+  },
+  {
+    "id": 2,
+    "name": "New Man",
+    "role": "Sales",
+    "connected": "2019-03-20",
+    "status": "Scheduled"
+  },
+  {
+    "id": 3,
+    "name": "Tester Man",
+    "role": "Customer",
+    "connected": "2019-04-14",
+    "status": "Explored"
+  },
+  {
+    "id": 4,
+    "name": "That Guy",
+    "role": "Support",
+    "connected": "2019-04-15",
+    "status": "Hire"
+  },
+  {
+    "id": 5,
+    "name": "This Guy",
+    "role": "Manager",
+    "connected": "2018-12-29",
+    "status": "Screen"
+  },
+  {
+    "id": 6,
+    "name": "Super Man",
+    "role": "Engineer",
+    "connected": "2018-12-29",
+    "status": "Scheduled"
+  },
+  {
+    "id": 7,
+    "name": "Spider Girl",
+    "role": "Customer",
+    "connected": "2018-12-30",
+    "status": "Explored"
+  },
+  {
+    "id": 8,
+    "name": "Good Developer",
+    "role": "Support",
+    "connected": "2018-12-30",
+    "status": "Hire"
+  },
+  {
+    "id": 9,
+    "name": "Great Manager",
+    "role": "Manager",
+    "connected": "2018-12-30",
+    "status": "Screen"
+  },
+  {
+    "id": 10,
+    "name": "Some Name",
+    "role": "Engineer",
+    "connected": "2019-02-28",
+    "status": "Scheduled"
+  }
+]
